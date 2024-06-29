@@ -59,3 +59,6 @@ function App() {
 }
 
 export default App;
+
+/*codemirror: This is the CodeMirror library, a popular code editor component for the web.  */
+/* react-codemirror2: This is a React wrapper for CodeMirror, which provides a React component for integrating CodeMirror into a React application.  */
